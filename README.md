@@ -285,7 +285,6 @@ Open your browser to the URL shown (usually `http://localhost:5173`)
 Install the [Freighter browser extension](https://www.freighter.app/) and create or import a wallet.
 
 In your React app, you can now connect to the user's Freighter wallet, call your smart contract functions, and display blockchain data in your UI.
-
 ## 🔧 Troubleshooting
 
 ### Common Issues
@@ -310,20 +309,20 @@ Double-check your contract ID for typos and ensure you're connected to the corre
 
 Make sure you copied the bindings folder to the src directory and ran `npm install && npm run build` inside the bindings folder to compile the package.
 
-## 📚 Resources
+## Resources
 
 For more detailed information, you can explore the Soroban Documentation at https://soroban.stellar.org/docs, the Stellar Documentation at https://developers.stellar.org/, learn more about Rust at https://www.rust-lang.org/learn, download Freighter Wallet from https://www.freighter.app/, and experiment with the Stellar Laboratory at https://laboratory.stellar.org/.
 
-## 🎓 What You Learned
+## What You Learned
 
 By completing this tutorial, you've learned to set up a complete Soroban development environment, write smart contracts in Rust, compile Rust to WebAssembly, deploy contracts to Stellar testnet, interact with contracts via CLI, generate TypeScript bindings, build a React frontend that connects to your contract, and integrate with Freighter wallet.
 
-## 🚀 Next Steps
+##  Next Steps
 
 You can now modify the guestbook contract to add new features, deploy to Stellar mainnet (use with caution and real funds!), build more complex smart contracts, explore advanced Soroban features like custom types and cross-contract calls, and create a full-stack DApp with improved styling and user experience.
 
 ---
 
-**Happy Building! 🌟**
+**Happy Building**
 
 If you found this helpful, please star this repository and share it with others learning Soroban development.
